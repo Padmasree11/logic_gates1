@@ -1,5 +1,5 @@
 # logic_gates1
-
+```
 EXP1: Study of basic digital IC’s and verification of truth tables for different logic gates
 AIM:
 To study and verify the truth table of logic gates in Quartus II using Verilog programming.
@@ -35,3 +35,4 @@ Logic symbol & Truthtable
 RTL realization Output:
 RTL
 Result: Thus, the truth table of logic gates in Quartus II using Verilog programming is studied and verified.
+```
